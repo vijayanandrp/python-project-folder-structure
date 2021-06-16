@@ -1,6 +1,6 @@
 # python-project-layout
 Python Project Structure - idea extracted from various developer. 
-
+```
 
 MyNewProject/
 ├── bin
@@ -49,3 +49,4 @@ MyNewProject/
     ├── __init__.py
     ├── test_advanced.py
     └── test_helpers.py
+```

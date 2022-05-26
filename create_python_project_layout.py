@@ -36,9 +36,9 @@ README.md
 bin/clean.sh
 bin/start.sh
 bin/stop.sh
-data/config/env_dev.json
-data/config/env_prod.json
-data/config/env_qa.json
+data/config/dev.json
+data/config/prod.json
+data/config/qa.json
 data/docs/design.md
 data/docs/functional.md
 data/docs/index.rst
@@ -57,6 +57,7 @@ src/app/module3/delete.py
 src/lib/__init__.py
 src/lib/commons.py
 src/lib/core.py
+src/lib/config.py
 src/lib/helpers.py
 tests/__init__.py
 tests/app_test.py
